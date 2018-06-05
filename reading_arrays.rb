@@ -28,11 +28,7 @@ def last_student_by_method
 end
 
 def first_second_and_third_students
- array[3] #>=3
- STUDENT_NAMES.first
- 
- STUDENT_NAMES[1]
- STUDENT_NAMES[2]
+ array[3] #=> 3
 end
 
 first_student_by_index
